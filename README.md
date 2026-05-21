@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kelly Vitoria</h1>
-<h3 align="center">tenho 26 anos, mãe de uma menina</h3>
+<h3 align="center">tenho 26 anos, estudante de tecnologia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
